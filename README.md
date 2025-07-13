@@ -22,6 +22,10 @@ To design, plan, and document a smart web-based platform that:
 | Diagrams           | Lucidchart / Draw.io |
 | Version Control    | GitHub             |
 
+| Section                                              | Link                                                                                                            |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Jira Board (Epics, User Stories, Sprint Planning) | [View Jira Board](https://jsuriya007.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?epics=visible) |
+| Confluence Project Wiki                           | [View Confluence Wiki](https://jsuriya454.atlassian.net/wiki/spaces/SCHAS/overview?homepageId=295032)           |
 
 
 ## Deliverables Completed
